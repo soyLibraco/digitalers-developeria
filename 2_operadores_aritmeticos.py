@@ -1,0 +1,8 @@
+print("Suma: 1 + 2 =", 1 + 2)
+print("Resta: 3 - 1 =", 3 - 1)
+print("Multiplicación: 2 * 4 =", 2 * 4)
+print("División: 7 / 5 =", 7 / 5)
+print("División entera: 7 // 5 =", 7 // 5)
+print("Módulo o resto: 7 % 5 =", 7 % 5)
+print("Potencia: 3 ** 3 =", 3 ** 3)
+print("Raíz: 81 ** (1/2) =", 81 ** (1/2) )
