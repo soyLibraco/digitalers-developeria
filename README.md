@@ -38,7 +38,7 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 ## Progreso
 
 - [x] Clase 1
-- [ ] Clase 2
+- [x] Clase 2
 - [ ] Clase 3
 - [ ] Clase 4
 - [ ] Clase 5
