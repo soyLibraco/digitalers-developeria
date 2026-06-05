@@ -1,0 +1,15 @@
+###
+# A partir del siguiente código, al ingresar una edad negativa mostrar el mensaje:
+# "[!] Edad no válida"
+#
+
+edad = int(input("Edad: "))
+if edad < 0:
+    mensaje = "Edad no válida"
+else:
+    if edad >= 18:
+        mensaje = "Eres mayor de edad."
+    else:
+        mensaje = "Eres menor de edad."
+print(mensaje)
+

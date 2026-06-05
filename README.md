@@ -13,6 +13,14 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 - Conversión de tipos.
 - Ejercicios prácticos.
 
+- Clase 2: Condicionales y Operadores Lógicos
+- Tipos numéricos.
+- Operadores de comparación.
+- Condicionales.
+- Operadores lógicos.
+- Orden de precedencia.
+- Ejercicios prácticos.
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
