@@ -6,14 +6,14 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 
 ## Contenido
 
-- Clase 1: Introducción.
+ **Clase 1: Introducción.**
 - Variables y tipos de datos.
 - Operadores aritméticos.
 - Entrada de datos con 'input()'.
 - Conversión de tipos.
 - Ejercicios prácticos.
 
-- Clase 2: Condicionales y Operadores Lógicos
+ **Clase 2: Condicionales y Operadores Lógicos**
 - Tipos numéricos.
 - Operadores de comparación.
 - Condicionales.
