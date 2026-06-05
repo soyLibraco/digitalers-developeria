@@ -29,7 +29,9 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 
 ## Tecnologías
 
-- Python.
+- Python
+- Git
+- GitHub
 
 ## Estado
 
