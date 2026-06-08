@@ -1,0 +1,89 @@
+###
+# Ejercicio 1
+#
+# 1. Crea un programa que permita ingresar dos cadenas vía la consola y las compare.
+# Luego, debe imprimir un mensaje en caso de que sean iguales y otro en caso de que sean diferentes.
+# cadena_a = input("Ingrese una cadena: ")
+# cadena_b = input("Ingrese otra cadena: ")
+
+# if cadena_a == cadena_b:
+#     print("Las cadenas son iguales.")
+# else:
+#     print("Las cadenas son diferentes.")
+
+###
+# 2. Crea un programa que solicite el nombre de un alumno a través de la consola, y luego chequee que no esté vacío.
+# En caso de estarlo, tiene que imprimir un mensaje de error;
+# caso contrario, deberá imprimir un mensaje indicando que se ingresó correctamente.
+# nombre_alumno = input("Ingrese su nombre: ")
+
+# if len(nombre_alumno) == 0 or " ": 
+#     print("No ha ingresado su nombre.")
+# else:
+#     print("Nombre ingresado correctamente.")
+
+###
+# 3. Pedir la edad por teclado y comparar si es mayor o menor de edad.
+# No olvidar de que para poder comparar el ingreso, debe ser convertido a int, ya que el usuario ingresa un número entero.
+# edad_usuario = int(input("Ingrese su edad: "))
+# if edad_usuario >= 18:
+#     print("Eres mayor de edad.")
+# else:
+#     print("Eres menor de edad.")
+
+###
+# Ejercicio 2
+# 1. Con un bucle while, incrementar una variable entera de uno en uno (desde 0 a 10 sin incluir).
+# Mostrar por pantalla el resultado por vuelta.
+# incrementador = 0
+# while incrementador < 9:
+#     incrementador += 1
+#     print(incrementador)
+
+###
+# 2. Pedir por teclado el nombre de usuario. Si está vacío, volver a pedirlo hasta que ingrese un nombre. Luego, saludar al usuario
+# nombre_usuario = ""
+# while nombre_usuario.strip() == "":
+#     nombre_usuario = input("Ingrese su nombre de usuario: ")
+# print(f"Bienvenido {nombre_usuario}")
+
+### 
+# Ejercicio 3
+# 1. Inserta entre Alejandro y Roberto a Paula, y luego agrega al final a Silvina.
+# 2. Para finalizar, recorre la lista y muestra a todos los nombres por pantalla.
+# nombres = ["Susana", "Alejandro", "Roberto"]
+# nombres.insert(2, "Paula")
+# nombres.append("Silvina")
+
+# for nombre in nombres:
+#     print(nombre)
+
+###
+# Ejercicio 4
+# 1. Recorre la lista con un bucle for.
+# nombres = ["Agustina", "Marisa", "Juan", "Osvaldo"]
+# for nombre in nombres:
+#     print(nombre)
+
+###
+# Ejercicio 5
+# 1. Crea un programa que solicite una fila y una columna e imprima en pantalla el número en esa posición
+# según la siguiente matriz: matriz = [[3.3, 6.1, 4.0], [4.9, 5.7, 6.4]]
+# Un ejemplo de entrada y salida es el siguiente (los caracteres en azul son ingresados por el usuario):
+# Fila: 1
+# Columna: 2
+# 6.4
+# El resultado es 6.4 porque es el valor ubicado en matriz[1][2].
+# El programa debe chequear que la fila y la columna tengan valores válidos. 
+# En este caso, las únicas filas válidas son 0 y 1; las columnas, 0, 1 y 2. 
+# Si alguno de los dos valores es inválido, debe mostrar un mensaje de error.
+matriz = [[3.3, 6.1, 4.0], [4.9, 5.7, 6.4]]
+fila = int(input("Ingrese una Fila: "))
+columna = int(input("Ingrese una Columna: "))
+
+if fila not in [0, 1]:
+    print("Valor de Fila incorrecto.")
+elif columna not in [0, 1, 2]:
+    print("Valor de columna incorrecto.")
+else:
+    print(f"El numero en la fila {fila} y la columna {columna} es {matriz[fila][columna]}")
