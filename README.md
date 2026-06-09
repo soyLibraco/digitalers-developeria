@@ -21,6 +21,18 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 - Orden de precedencia.
 - Ejercicios prácticos.
 
+ **Clase 3: Estructuras de datos y bucles**
+- Introducción a listas
+- Acceso y recorrido de listas
+- Métodos `append()` y `remove()`
+- Bucle `for`
+- Uso de `range()`
+- Bucle `while`
+- Bucle infinito con `while True`
+- Sentencias `break` y `continue`
+- Recorrido de strings carácter por carácter
+- Resolución de ejercicios prácticos utilizando iteraciones
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
@@ -41,7 +53,7 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 
 - [x] Clase 1
 - [x] Clase 2
-- [ ] Clase 3
+- [x] Clase 3
 - [ ] Clase 4
 - [ ] Clase 5
 - [ ] Clase 6
