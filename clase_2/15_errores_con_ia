@@ -1,0 +1,22 @@
+# Uso de IA para corregir potencial error del código 3_ejercicio.py
+
+# Entrada
+numero_1 = float(input("Primer número: "))
+numero_2 = float(input("Segundo número: "))
+
+# Operaciones básicas (estas nunca dan error con cero)
+suma = numero_1 + numero_2
+resta = numero_1 - numero_2
+multiplicacion = numero_1 * numero_2
+
+# Salida de las primeras operaciones
+print(f"{numero_1} + {numero_2} = {suma}")
+print(f"{numero_1} - {numero_2} = {resta}")
+print(f"{numero_1} * {numero_2} = {multiplicacion}")
+
+# Operación y Salida de la División (Con Validación)
+if numero_2 != 0:
+    division = numero_1 / numero_2
+    print(f"{numero_1} / {numero_2} = {division}")
+else:
+    print("No se puede dividir entre cero.")
