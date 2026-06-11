@@ -17,7 +17,7 @@ else:
 # caso contrario, deberá imprimir un mensaje indicando que se ingresó correctamente.
 nombre_alumno = input("Ingrese su nombre: ")
 
-if len(nombre_alumno) == 0 or " ": 
+if nombre_alumno.strip() == "": 
     print("No ha ingresado su nombre.")
 else:
     print("Nombre ingresado correctamente.")
@@ -37,8 +37,8 @@ else:
 # Mostrar por pantalla el resultado por vuelta.
 incrementador = 0
 while incrementador < 9:
-    incrementador += 1
     print(incrementador)
+    incrementador += 1
 
 ###
 # 2. Pedir por teclado el nombre de usuario. Si está vacío, volver a pedirlo hasta que ingrese un nombre. Luego, saludar al usuario
