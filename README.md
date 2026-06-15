@@ -7,19 +7,19 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 ## Contenido
 
  **Clase 1: Introducción.**
-- Variables y tipos de datos.
-- Operadores aritméticos.
-- Entrada de datos con 'input()'.
-- Conversión de tipos.
-- Ejercicios prácticos.
+- Variables y tipos de datos
+- Operadores aritméticos
+- Entrada de datos con `input()`
+- Conversión de tipos
+- Ejercicios prácticos
 
  **Clase 2: Condicionales y Operadores Lógicos**
-- Tipos numéricos.
-- Operadores de comparación.
-- Condicionales.
-- Operadores lógicos.
-- Orden de precedencia.
-- Ejercicios prácticos.
+- Tipos numéricos
+- Operadores de comparación
+- Condicionales
+- Operadores lógicos
+- Orden de precedencia
+- Ejercicios prácticos
 
  **Clase 3: Estructuras de datos y bucles**
 - Introducción a listas
@@ -32,6 +32,15 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 - Sentencias `break` y `continue`
 - Recorrido de strings carácter por carácter
 - Resolución de ejercicios prácticos utilizando iteraciones
+
+ **Clase 4: Funciones**
+- Definición de funciones con `def`
+- Llamado/invocación de funciones
+- Parámetros
+- Funciones con más de un parámetro
+- Uso de `return`
+- Diferencia entre mostrar un resultado con `print()` y devolverlo con `return`
+- Resolución de ejercicios aplicando funciones
 
 ## Objetivo
 
