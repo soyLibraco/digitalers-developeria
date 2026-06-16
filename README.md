@@ -63,7 +63,7 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 - [x] Clase 1       
 - [x] Clase 2
 - [x] Clase 3
-- [ ] Clase 4
+- [x] Clase 4
 - [ ] Clase 5
 - [ ] Clase 6
 - [ ] Clase 7
