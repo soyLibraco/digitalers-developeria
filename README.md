@@ -42,6 +42,13 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
 - Diferencia entre mostrar un resultado con `print()` y devolverlo con `return`
 - Resolución de ejercicios aplicando funciones
 
+ **Clase 5: Funciones avanzadas, tuplas y diccionarios**
+ - Parámetros obligatorios y opcionales
+ - Valores predeterminados en funciones
+ - Uso de `return`
+ - Tuplas
+ - Diccionarios
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
@@ -64,7 +71,7 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 - [x] Clase 2
 - [x] Clase 3
 - [x] Clase 4
-- [ ] Clase 5
+- [x] Clase 5
 - [ ] Clase 6
 - [ ] Clase 7
 - [ ] Clase 8
