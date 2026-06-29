@@ -49,6 +49,19 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
  - Tuplas
  - Diccionarios
 
+ **Clase 6: Diccionarios, conjuntos y programación orientada a objetos**
+ - Iteración de diccionarios
+ - Acceso a claves, valores e ítems
+ - Uso de conjuntos (`set`)
+ - Introducción a POO
+ - Definición de clases
+ - Método `__init__`
+ - Atributos de instancia
+ - Métodos
+ - Organización básica de clases
+ - Primeros ejercicios con Tkinter
+ - Uso de widgets y comandos
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
@@ -72,7 +85,7 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 - [x] Clase 3
 - [x] Clase 4
 - [x] Clase 5
-- [ ] Clase 6
+- [x] Clase 6
 - [ ] Clase 7
 - [ ] Clase 8
 - [ ] Clase 9

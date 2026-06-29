@@ -26,7 +26,7 @@ print(sumar(10, 30))
 lista = rango(1, 10, 2)
 print(lista)
 '''
-# Debe imprimir: [1, 3, 5, 7, 9], puesto que se genra una lista desde 1 hasta 10 con un intervalo de 2.
+# Debe imprimir: [1, 3, 5, 7, 9], puesto que se genera una lista desde 1 hasta 10 con un intervalo de 2.
 
 def rango(desde, hasta, intervalo):
     lista = []
