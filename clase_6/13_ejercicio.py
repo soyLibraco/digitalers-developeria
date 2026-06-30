@@ -30,7 +30,7 @@ class Robot:
             self.bateria -= 20
             print(f"Acción realizada. Batería restante: {self.bateria}%")
         else:
-            print("Batería baja, se necesita recargar.")
+            print(f"Batería baja({self.bateria}%), se necesita recargar.")
         
 mi_robot = Robot()
 print(mi_robot.modelo)

@@ -62,6 +62,14 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
  - Primeros ejercicios con Tkinter
  - Uso de widgets y comandos
 
+ **Clase 7: Git**
+ - Flujo básico de Git
+ - Inicialización de repositorios `git init`
+ - Seguimiento de archivos `git add`
+ - Creación de commits `git commit`
+ - Manejo de ramas `git branch`
+ - Cambio entre ramas `git switch`
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
@@ -86,34 +94,5 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 - [x] Clase 4
 - [x] Clase 5
 - [x] Clase 6
-- [ ] Clase 7
-- [ ] Clase 8
-- [ ] Clase 9
-- [ ] Clase 10
-- [ ] Clase 11
-- [ ] Clase 12
-- [ ] Clase 13
-- [ ] Clase 14
-- [ ] Clase 15
-- [ ] Clase 16
-- [ ] Clase 17
-- [ ] Clase 18
-- [ ] Clase 19
-- [ ] Clase 20
-- [ ] Clase 21
-- [ ] Clase 22
-- [ ] Clase 23
-- [ ] Clase 24
-- [ ] Clase 25
-- [ ] Clase 26
-- [ ] Clase 27
-- [ ] Clase 28
-- [ ] Clase 29
-- [ ] Clase 30
-- [ ] Clase 31
-- [ ] Clase 32
-- [ ] Clase 33
-- [ ] Clase 34
-- [ ] Clase 35
-- [ ] Clase 36
-- [ ] Clase 37
+- [x] Clase 7
+- ⏳ En curso...
