@@ -70,6 +70,16 @@ Aquí ordenaré los ejercicios, desafíos, laboratorios y proyectos desarrollado
  - Manejo de ramas `git branch`
  - Cambio entre ramas `git switch`
 
+ **Clase 8: GitHub y repositorios remotos**
+ - Conexión de un repositorio local con GitHub `git remote`
+ - Subida de cambios al repositorio remoto `git push`
+ - Descarga de cambios del repositorio remoto `git pull`
+ - Obtención de cambios sin fusionarlos `git fetch`
+ - Clonado de repositorios `git clone`
+ - Flujo básico de trabajo entre repositorio local y remoto
+ - Resolución de ejemplos prácticos utilizando ramas y merges
+
+
 ## Objetivo
 
 Documentar mi progreso, conservar ejercicios y proyectos, y registrar mi evolución a lo largo de la cursada.
@@ -95,4 +105,5 @@ Iré incorporando todo lo realizado a medida que el curso avance.
 - [x] Clase 5
 - [x] Clase 6
 - [x] Clase 7
+- [x] Clase 8
 - ⏳ En curso...
